@@ -1,3 +1,4 @@
+import React from 'react'
 import {BlackHole} from '../assets/blackhole.webm';
 
 function AnotherHero() {
