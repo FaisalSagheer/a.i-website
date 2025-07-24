@@ -26,7 +26,7 @@ function AnotherHero() {
           autoPlay
           muted
           loop
-          className='rotate-180 absolute top-[-200px] w-full object-cover'
+          className='rotate-180 absolute top-[-670px] w-full object-cover'
         >
           <source
             src={BlackHole}
@@ -35,7 +35,7 @@ function AnotherHero() {
         </video>
       </div>
       <div className="container relative" ref={parallaxRef}>
-        <div className="relative z-1 max-w-[62rem] mx-auto text-center mt-[3.875rem] md:mt-20 lg:mt-[8.25rem]">
+        <div className="relative z-1 max-w-[62rem] mx-auto text-center mt-[-3.875rem] md:mt-20 lg:mt-[8.25rem]">
           <h1 className="h1 mb-6">
             AI-Powered Business Systems Built For{` `}
             <span className="inline-block relative">
