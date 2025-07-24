@@ -1,4 +1,3 @@
-
 import { useLocation } from "react-router-dom";
 import { disablePageScroll, enablePageScroll } from "scroll-lock";
 import { brainwave } from "../assets";
@@ -64,12 +63,11 @@ const Header = () => {
               </a>
             ))}
           </div>
-
           <HamburgerMenu />
+          
         </nav>
 
-        
-        <Button className="hidden lg:flex" href="#login">
+        <Button className="hidden lg:flex" href="/">
           Book A Call
         </Button>
 

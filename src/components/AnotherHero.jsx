@@ -26,7 +26,7 @@ function AnotherHero() {
           autoPlay
           muted
           loop
-          className='rotate-180 absolute top-[-670px] w-full object-cover'
+          className='rotate-180 absolute top-[-280px] lg:top-[-670px] w-full object-cover'
         >
           <source
             src={BlackHole}
