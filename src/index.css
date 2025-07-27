@@ -99,8 +99,8 @@
 	box-sizing: border-box;
 }
 
-body {;
-	/* perspective: 1000vmin; */
+.SphereBody {;
+	perspective: 1000vmin;
 }
 
 .sphere {
