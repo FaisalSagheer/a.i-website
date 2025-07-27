@@ -40,7 +40,6 @@ export const HamburgerMenu = () => {
           alt="Background"
         />
       </div>
-
       <Rings />
 
       <SideLines />
